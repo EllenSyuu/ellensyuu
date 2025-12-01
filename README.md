@@ -76,8 +76,6 @@ My current research analyzes **precipitation extremes and temperature anomalies 
 
 ---
 
-# 🇯🇵 日本語版
-
 ### 👋 自己紹介
 私は **マギル大学（McGill University）数学・統計学修士課程**の学生で、主に以下の分野を研究しています：
 
@@ -107,8 +105,6 @@ My current research analyzes **precipitation extremes and temperature anomalies 
 - **Git / Linux**
 
 ---
-
-# 🇹🇼 繁體中文版本
 
 ### 👋 關於我
 我是一名就讀於 **加拿大麥吉爾大學（McGill University）** 的**數學與統計學碩士生**，主要研究：
