@@ -1,4 +1,4 @@
-# Hi, I'm Ellen 🌟  
+# Hi, This is Ellen! Welcome to my GitHub :)  
 Master's Student in Mathematics & Statistics | Extreme-Value Theory | Copula Modeling | Climate Risk Analytics
 
 [English](#-english-version) | [日本語](#-日本語版) | [繁體中文](#-繁體中文版本)
@@ -73,8 +73,8 @@ My current research analyzes **precipitation extremes and temperature anomalies 
 
 ## 🔗 Connect
 
-- 📧 Email: *(you can add this later)*  
-- 🔗 LinkedIn: *(optional)*  
+- 📧 Email: ellen.zy.syuu@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/ellenzhoumcgill/
 
 ---
 
