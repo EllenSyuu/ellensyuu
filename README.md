@@ -5,8 +5,6 @@ Master's Student in Mathematics & Statistics | Extreme-Value Theory | Copula Mod
 
 ---
 
-## 🇬🇧 English Version
-
 ### 👋 About Me
 I am a Master's student in **Mathematics & Statistics** at **McGill University**, specializing in:
 
